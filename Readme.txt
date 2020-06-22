@@ -2,10 +2,9 @@ TITLE: "Proper Scoring rules for evaluating asymmetry in density forecasting"
 
 AUTHORS: M. Iacopini, F. Ravazzolo, and L. Rossini 
 
-AVAILABLE ON ....
+AVAILABLE at:  https://arxiv.org/abs/2006.11265
 
-PLEASE CITE AS: Iacopini,M., Ravazzolo, F. & Rossini, L. (2020) - "Proper Scoring rules for evaluating asymmetry in density forecasting",
-                available at .....
+PLEASE CITE AS: Iacopini,M., Ravazzolo, F. & Rossini, L. (2020) - "Proper Scoring rules for evaluating asymmetry in density forecasting", available at  https://arxiv.org/abs/2006.11265
 
 ---------------------------------------------------------------------------------------------------------
 
