@@ -19,7 +19,7 @@ function [ACPS,ACPS_mean] = ACPS(forec, obs, c)
 % 
 % AVAILABLE at:  https://arxiv.org/abs/2006.11265
 % 
-% PLEASE CITE AS: Iacopini,M., Ravazzolo, F. & Rossini, L. (2020) - "Proper scoring rules for evaluating asymmetry in density forecasting",
+% PLEASE CITE AS: Iacopini, M., Ravazzolo, F. & Rossini, L. (2020) - "Proper scoring rules for evaluating asymmetry in density forecasting",
 % available at https://arxiv.org/abs/2006.11265
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if isvector(obs) && size(obs,1)~=1
