@@ -1,22 +1,19 @@
-TITLE: "Proper Scoring rules for evaluating asymmetry in density forecasting"
+TITLE: "Visualizing and comparing distributions with Half-disk density strips"
 
-AUTHORS: M. Iacopini, F. Ravazzolo, and L. Rossini 
+AUTHORS: C.R.M.A. Santagiustina, and M. Iacopini
 
-AVAILABLE at:  https://arxiv.org/abs/2006.11265
+AVAILABLE at:  
 
-PLEASE CITE AS: Iacopini, M., Ravazzolo, F. & Rossini, L. (2020) - "Proper Scoring rules for evaluating asymmetry in density forecasting", available at  https://arxiv.org/abs/2006.11265
+PLEASE CITE AS: Santagiustina, C.R.M.A & Iacopini, M., (2020) - "Visualizing and comparing distributions with Half-disk density strips",
+available at  
 
 ---------------------------------------------------------------------------------------------------------
 
 
-The Matlab codes for running the Asymmetric Continuous Probability Score (ACPS) are:
+This folder contains the Matlab and R code for creating and plotting Half-Disk Density Strips (HDDSs).
 
-   ACPS.m                   - Compute the ACPS for each observation
-
-   GaussLegendre.m          - Compute locations and weights of Gauss-Legendere quadrature on [a,b]
-
-   example.m                - Main file for running the ACPS for different examples (see Section 3 of the paper).
-
+The R code provides all the functions for creating HDDSs and HDDS tables,
+while the Matlab code is a simplified version that plots individual HDDSs.
 
 ---------------------------------------------------------------------------------------------------------
 
