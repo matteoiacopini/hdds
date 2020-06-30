@@ -2,10 +2,10 @@ TITLE: "Visualizing and comparing distributions with Half-disk density strips"
 
 AUTHORS: C.R.M.A. Santagiustina, and M. Iacopini
 
-AVAILABLE at:  
+AVAILABLE at:  https://arxiv.org/abs/2006.16063
 
 PLEASE CITE AS: Santagiustina, C.R.M.A & Iacopini, M., (2020) - "Visualizing and comparing distributions with Half-disk density strips",
-available at  
+available at   https://arxiv.org/abs/2006.16063
 
 ---------------------------------------------------------------------------------------------------------
 
